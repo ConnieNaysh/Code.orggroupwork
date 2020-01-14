@@ -65,7 +65,7 @@ function backgroundBalls() {
 }
 //Background made by Paul
 dot(300);
-//Tyler's Background dots
+//Connor's & Tyler's Background dots
 backgroundBalls();
 //Spagett made by Corey
 drawSpagett(randomNumber(10,200), randomNumber(10, 30), 10);
@@ -73,4 +73,4 @@ penUp();
 drawTriBoiz(20);
 //Connor's bowlin' balls (circles)
 drawBowlingballs();
-hide()
+hide();
