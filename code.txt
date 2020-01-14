@@ -1,4 +1,4 @@
-//Connor & Tyler
+//Connor & Tyler (background dots)
 function backgroundBalls() {
   for (var i = 0; i < 9000; i++) {
     penUp();
